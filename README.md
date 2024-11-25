@@ -1,4 +1,4 @@
-# <span style="display:flex;justify-content: center;align-items: center;gap:15px"> <img src="./src/assets/images/eren-logo.webp" style="width: 40px">EREN - PetShop</span>
+# <span style="display:flex;justify-content: center;align-items: center;gap:15px"> <img src="./src/assets/images/eren-logo.webp" style="width: 40px"><b style="margin-left:20px">EREN - PetShop</b></span>
 
 ## Descripción
 
